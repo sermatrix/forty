@@ -2,4 +2,4 @@ README.md
 
 LICENCE.txt
 
-passswords.txt
+passwords.txt
